@@ -6,3 +6,4 @@ Git has related to GitHub.
 Create a new branch is quick
 Create a new branch is quick & simple.
 Switched to a new branch 'dev'
+test
